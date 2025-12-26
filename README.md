@@ -134,11 +134,11 @@ This project demonstrates a correct, professional approach to Linear Regression,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PranayDomal/Understanding-Linear_Regression.git
+git clone https://github.com/PranayDomal/Advertising_Sales_Prediction.git
 ```
 2. Navigate to the folder:
 ```bash
-cd Understanding-Linear_Regression
+cd Advertising_Sales_Prediction
 ```
 3. Run the notebook:
 ```bash
